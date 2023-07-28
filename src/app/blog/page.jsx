@@ -1,5 +1,7 @@
+import style from "./page.module.css";
+
 const Blog = () => {
-  return <div>Blog</div>;
+  return <div className={style.container}>Blog</div>;
 };
 
 export default Blog;

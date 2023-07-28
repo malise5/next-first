@@ -1,5 +1,6 @@
+import style from "./page.module.css";
 const About = () => {
-  return <div>About</div>;
+  return <div className={style.container}>About</div>;
 };
 
 export default About;

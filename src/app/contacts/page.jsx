@@ -1,5 +1,7 @@
+import styles from "./page.module.css";
+
 const Contacts = () => {
-  return <div>Contacts</div>;
+  return <div className={styles.container}>Contacts</div>;
 };
 
 export default Contacts;
