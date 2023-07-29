@@ -1,6 +1,6 @@
 .container {
   height: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
   font-size: 14px;
   display: flex;
   justify-content: space-between;

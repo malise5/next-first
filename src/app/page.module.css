@@ -24,12 +24,3 @@
   width: 500px;
   object-fit: cover;
 }
-.button {
-  padding: 20px;
-  cursor: pointer;
-  background-color: #53c28b;
-  border: none;
-  border-radius: 10px;
-  width: max-content;
-  color: white;
-}

@@ -1,7 +1,4 @@
-"use client";
-
 import Link from "next/link";
-import React from "react";
 import style from "./navbar.module.css";
 
 const links = [
@@ -49,14 +46,7 @@ const Navbar = () => {
             {link.title}
           </Link>
         ))}
-        <button
-          className={style.logout}
-          onClick={() => {
-            console.log("logged");
-          }}
-        >
-          Logout
-        </button>
+        <button className={style.logout}>Logout</button>
       </div>
     </div>
   );
