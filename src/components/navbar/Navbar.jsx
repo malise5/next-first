@@ -39,7 +39,7 @@ const Navbar = () => {
     return (
         <div className={style.container}>
             <Link href="/" className={style.logo}>
-                Lamina
+                Malise💻
             </Link>
             <div className={style.links}>
                 <Toggle />
