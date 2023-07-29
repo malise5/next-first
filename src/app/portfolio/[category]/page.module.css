@@ -1,0 +1,14 @@
+.container {
+}
+.catTitle {
+    color: #53c28b;
+}
+.item{
+  display: flex;
+  gap: 50px;
+}
+.content{}
+.title{}
+.desc{}
+.imgContainer{}
+.img{}
