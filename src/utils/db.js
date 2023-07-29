@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import handleError from "handleError";
 
 const connect = async (req, res) => {
     try {
