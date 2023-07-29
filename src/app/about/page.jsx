@@ -54,7 +54,7 @@ const About = () => {
             <br />
             <br /> -Mobile Apps
           </p>
-          <Button text="Contact" url="contact" />
+          <Button text="Contact" url="/contacts" />
         </div>
       </div>
     </div>
